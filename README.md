@@ -10,4 +10,5 @@ Editor:
 I have used VS Code as my editor.
 
 Instructions:
-To view this project simply click on the 'index/profile.html files.
+To view this project simply click on the 'index/profile'.html files.
+
