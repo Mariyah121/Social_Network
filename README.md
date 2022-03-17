@@ -7,7 +7,7 @@ I have enabled light/dark mode using javascript.
 I am currently working to complete the rest of the pages.
 
 Editor:
-I have used VS Code as my editor.
+VS Code.
 
 Instructions:
 To view this project simply click on the 'index/profile'.html files.
