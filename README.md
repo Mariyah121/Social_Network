@@ -10,5 +10,5 @@ Editor:
 VS Code.
 
 Instructions:
-To view this project simply click on the 'index/profile'.html file.
+To view this project simply click on the 'index and profile'.html file.
 
